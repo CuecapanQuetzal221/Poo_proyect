@@ -1,4 +1,4 @@
-package fes.aragon;
+package fes.aragon.controller;
 
 public class InicioController {
 	
